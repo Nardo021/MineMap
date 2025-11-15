@@ -1,8 +1,5 @@
 # MineMap  
-### **A Portable Real-World GPS + Orientation Powered Minecraft-Style Map Device**
-
-MineMap is a fully portable, battery-powered, Raspberry Pi-based navigation device that displays your **real world position** and **real-time heading** on a **Minecraft-styled square map**.  
-Featuring a **7.6” 800×800 square IPS display**, **internal GPS**, **9DOF orientation sensor**, and **custom 3D-printed enclosure**, MineMap brings a physical, handheld Minecraft map into the real world.
+A real world GPS powered Minecraft style map device built with Raspberry Pi. Generates live tiled maps, applies Minecraft textures, and displays your actual position on screen.
 
 ---
 
